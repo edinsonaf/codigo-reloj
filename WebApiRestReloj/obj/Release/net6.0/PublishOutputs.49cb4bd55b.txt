@@ -1,0 +1,13 @@
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\WebApiRestReloj.exe
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\WebApiRestReloj.dll
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\WebApiRestReloj.deps.json
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\WebApiRestReloj.runtimeconfig.json
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\WebApiRestReloj.pdb
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\ZKSoftwareAPI.dll
+F:\CsharpActual\ApiRestReloj\WebApiRestReloj\WebApiRestReloj\obj\Release\net6.0\PubTmp\Out\Interop.zkemkeeper.dll
